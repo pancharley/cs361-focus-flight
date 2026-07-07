@@ -1,1 +1,1 @@
-# cs361-focus-flight
+# My CS361 Course Project
